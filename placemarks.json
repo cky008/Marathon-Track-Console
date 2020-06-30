@@ -1,37 +1,37 @@
 [
   {
     "id": 7211931672776687834,
-    "title": "New York New York",
-    "description": "So Good They Named It Twice"
+    "place": "New York New York",
+    "distance": "So Good They Named It Twice"
   },
   {
     "id": -2098929570310224542,
-    "title": "Ring of Kerry",
-    "description": "Some place in the Kingdom"
+    "place": "Ring of Kerry",
+    "distance": "Some place in the Kingdom"
   },
   {
     "id": 2829976877471774188,
-    "title": "Waterford City",
-    "description": "You get great Blaas Here!!"
+    "place": "Waterford City",
+    "distance": "You get great Blaas Here!!"
   },
   {
     "id": -4782729140445283558,
-    "title": "A Test",
-    "description": "A little test"
+    "place": "A Test",
+    "distance": "A little test"
   },
   {
     "id": -7253151614196292412,
-    "title": "Jacj",
-    "description": "Fast"
+    "place": "Jacj",
+    "distance": "Fast"
   },
   {
     "id": -8630321708976444421,
-    "title": "Jack",
-    "description": "Fast"
+    "place": "Jack",
+    "distance": "Fast"
   },
   {
     "id": 221881018134928332,
-    "title": "Florance",
-    "description": "low speed"
+    "place": "Florance",
+    "distance": "low speed"
   }
 ]

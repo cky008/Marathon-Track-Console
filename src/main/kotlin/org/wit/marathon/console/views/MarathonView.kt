@@ -45,27 +45,27 @@ class MarathonView {
 
         println()
         print("Enter the Place you run : ")
-        marathon.title = readLine()!!
+        marathon.place = readLine()!!
         print("Enter how Far you ran : ")
-        marathon.description = readLine()!!
+        marathon.distance = readLine()!!
 
-        return marathon.title.isNotEmpty() && marathon.description.isNotEmpty()
+        return marathon.place.isNotEmpty() && marathon.distance.isNotEmpty()
     }
 
     fun updateMarathonData(marathon : MarathonModel) : Boolean {
 
-        var tempTitle: String?
-        var tempDescription: String?
+        var tempPlace: String?
+        var tempDistance: String?
 
         if (marathon != null) {
-            print("Enter a new Title for [ " + marathon.title + " ] : ")
-            tempTitle = readLine()!!
-            print("Enter a new Description for [ " + marathon.description + " ] : ")
-            tempDescription = readLine()!!
+            print("Enter a new Place for [ " + marathon.place + " ] : ")
+            tempPlace = readLine()!!
+            print("Enter a new Distance for [ " + marathon.distance + " ] : ")
+            tempDistance = readLine()!!
 
-            if (!tempTitle.isNullOrEmpty() && !tempDescription.isNullOrEmpty()) {
-                marathon.title = tempTitle
-                marathon.description = tempDescription
+            if (!tempPlace.isNullOrEmpty() && !tempDistance.isNullOrEmpty()) {
+                marathon.place = tempPlace
+                marathon.distance = tempDistance
                 return true
             }
         }

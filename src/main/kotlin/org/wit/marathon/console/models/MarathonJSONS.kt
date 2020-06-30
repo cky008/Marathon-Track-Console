@@ -48,8 +48,8 @@ class MarathonJSONStore : MarathonStore {
     override fun update(marathon: MarathonModel) {
         var foundMarathon = findOne(marathon.id!!)
         if (foundMarathon != null) {
-            foundMarathon.title = marathon.title
-            foundMarathon.description = marathon.description
+            foundMarathon.place = marathon.place
+            foundMarathon.distance = marathon.distance
         }
         serialize()
     }

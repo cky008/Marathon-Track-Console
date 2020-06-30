@@ -99,20 +99,20 @@ class MarathonController {
     fun dummyData() {
         marathons.create(
             MarathonModel(
-                title = "New York",
-                description = "50km"
+                place = "New York",
+                distance = "50km"
             )
         )
         marathons.create(
             MarathonModel(
-                title = "Shanghai",
-                description = "37km"
+                place = "Shanghai",
+                distance = "37km"
             )
         )
         marathons.create(
             MarathonModel(
-                title = "Waterford City",
-                description = "33km"
+                place = "Waterford City",
+                distance = "33km"
             )
         )
     }

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": -7951720178518813082,
+    "place": "Shanghai",
+    "distance": "25km"
+  },
+  {
+    "id": -837247421283781091,
+    "place": "Ireland",
+    "distance": "41km"
+  },
+  {
+    "id": -4851948756570058201,
+    "place": "UK",
+    "distance": "21km"
+  },
+  {
+    "id": 3497521747797421138,
+    "place": "US",
+    "distance": "30km"
+  }
+]
