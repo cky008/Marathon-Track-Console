@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
-      <module name="Placemark-Console-2.0.main" target="1.8" />
-      <module name="Placemark-Console-2.0.test" target="1.8" />
+      <module name="Marathon-Track-Console.main" target="1.8" />
+      <module name="Marathon-Track-Console.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
