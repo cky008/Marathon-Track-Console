@@ -14,7 +14,7 @@ class MarathonController {
 
     init {
         logger.info { "Launching Marathon Console App" }
-        println("Marathon Kotlin App Version 1.0")
+        println("Marathon Kotlin App Version 1.1")
     }
 
     fun start() {
