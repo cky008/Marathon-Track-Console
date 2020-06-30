@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d7af9da-d716-4988-9f7c-8a0e69b0fc5d" name="Default Changelist" comment="" />
+    <list default="true" id="7d7af9da-d716-4988-9f7c-8a0e69b0fc5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,13 +25,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cqwdNG9j4OMvos9Bg5O20nk0ZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -40,7 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -171,6 +180,7 @@
       <workItem from="1593531794918" duration="17000" />
       <workItem from="1593531828861" duration="1282000" />
       <workItem from="1593533123045" duration="333000" />
+      <workItem from="1593533467400" duration="1328000" />
     </task>
     <servers />
   </component>
@@ -190,10 +200,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="884" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592396623014" />
-    <state x="787" y="460" width="345" height="274" key="Github.ShareDialog" timestamp="1593533163196">
+    <state x="787" y="460" width="345" height="274" key="Github.ShareDialog" timestamp="1593533759835">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="787" y="460" width="345" height="274" key="Github.ShareDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1593533163196" />
+    <state x="787" y="460" width="345" height="274" key="Github.ShareDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1593533759835" />
+    <state x="663" y="173" key="Github.UntrackedFilesDialog" timestamp="1593533793345">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="663" y="173" key="Github.UntrackedFilesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1593533793345" />
     <state width="938" height="275" key="GridCell.Tab.0.bottom" timestamp="1593533118448">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -214,10 +228,10 @@
     </state>
     <state width="1493" height="48" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592398032933" />
     <state width="938" height="275" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1593533118448" />
-    <state x="461" y="204" key="SettingsEditor" timestamp="1593533451787">
+    <state x="461" y="204" key="SettingsEditor" timestamp="1593533749938">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="461" y="204" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1593533451787" />
+    <state x="461" y="204" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1593533749938" />
     <state x="875" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592616001934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
